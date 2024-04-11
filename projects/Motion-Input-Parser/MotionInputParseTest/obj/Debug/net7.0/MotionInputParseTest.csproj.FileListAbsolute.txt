@@ -1,0 +1,15 @@
+C:\Users\cesul\source\repos\MotionInputParseTest\MotionInputParseTest\bin\Debug\net7.0\MotionInputParseTest.exe
+C:\Users\cesul\source\repos\MotionInputParseTest\MotionInputParseTest\bin\Debug\net7.0\MotionInputParseTest.deps.json
+C:\Users\cesul\source\repos\MotionInputParseTest\MotionInputParseTest\bin\Debug\net7.0\MotionInputParseTest.runtimeconfig.json
+C:\Users\cesul\source\repos\MotionInputParseTest\MotionInputParseTest\bin\Debug\net7.0\MotionInputParseTest.dll
+C:\Users\cesul\source\repos\MotionInputParseTest\MotionInputParseTest\bin\Debug\net7.0\MotionInputParseTest.pdb
+C:\Users\cesul\source\repos\MotionInputParseTest\MotionInputParseTest\obj\Debug\net7.0\MotionInputParseTest.csproj.AssemblyReference.cache
+C:\Users\cesul\source\repos\MotionInputParseTest\MotionInputParseTest\obj\Debug\net7.0\MotionInputParseTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cesul\source\repos\MotionInputParseTest\MotionInputParseTest\obj\Debug\net7.0\MotionInputParseTest.AssemblyInfoInputs.cache
+C:\Users\cesul\source\repos\MotionInputParseTest\MotionInputParseTest\obj\Debug\net7.0\MotionInputParseTest.AssemblyInfo.cs
+C:\Users\cesul\source\repos\MotionInputParseTest\MotionInputParseTest\obj\Debug\net7.0\MotionInputParseTest.csproj.CoreCompileInputs.cache
+C:\Users\cesul\source\repos\MotionInputParseTest\MotionInputParseTest\obj\Debug\net7.0\MotionInputParseTest.dll
+C:\Users\cesul\source\repos\MotionInputParseTest\MotionInputParseTest\obj\Debug\net7.0\refint\MotionInputParseTest.dll
+C:\Users\cesul\source\repos\MotionInputParseTest\MotionInputParseTest\obj\Debug\net7.0\MotionInputParseTest.pdb
+C:\Users\cesul\source\repos\MotionInputParseTest\MotionInputParseTest\obj\Debug\net7.0\MotionInputParseTest.genruntimeconfig.cache
+C:\Users\cesul\source\repos\MotionInputParseTest\MotionInputParseTest\obj\Debug\net7.0\ref\MotionInputParseTest.dll
