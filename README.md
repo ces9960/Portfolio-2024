@@ -3,20 +3,20 @@ This portfolio is a showcase of various projects that I've worked on during my u
 
 ## Project 1: Motion Input Parser
 
-This project is an example C# implementation of how a hypothetical 2D fighting game may parse sequences of directional inputs.  In most 2D fighting games, special moves are typically performed with motion inputs, which are a series of directional inputs followed by a button press.  Because this input parser is intended to be implemented in a 2D fighting game, the following assumptions are made based on standard 2D fighting game mechanics:
+This project is a test of a C# algorithm for parsing sequences of 8-way directional inputs, as is common in 2D fighting games.  In most 2D fighting games, special moves are typically performed with motion inputs, which are a series of directional inputs followed by a button press.  Because this input parser is intended to be implemented in a 2D fighting game, the following assumptions are made based on standard 2D fighting game mechanics:
 
-1. The game runs at 60 frames per second
-2. Inputs are polled once per frame
-3. On any given frame, the directional input can be neutral or any of 8 directions (4 cardinals, 4 diagonals)
+1. The game runs at 60 frames per second.
+2. Inputs are polled once per frame.
+3. On any given frame, the directional input can be neutral or any of 8 directions (4 cardinals, 4 diagonals).
 
 In order to meet the requirements for use in a 2D fighting game, this input parser was made with the following requirements:
 
 1. The parser must be able to support an arbitrary number of motion inputs, so that there is no hard limit on the number of special moves that a character may have.
 2. Sequences must be ordered by priority such that certain motion inputs are prioritized over others in the event that a sequence of inputs can be interpreted as multiple valid motion inputs.
-3. The parser must be able to support arbitrarily complex motion inputs, meaning that there is no limit on the number of directions that a single motion input can contain
-4. Each motion input's complexity must be completely independent from all other motion inputs' complexity
-5. To provide a degree of leniency instead of demanding frame-perfect inputs, the parser must have a buffer that allows for multiple frames to elapse between each directional input in a motion input
-6. Motion inputs must be represented using numpad notation (a system for representing directional inputs as numbers), which is the de facto standard for representing directional inputs in 2D fighting games
+3. The parser must be able to support arbitrarily complex motion inputs, meaning that there is no limit on the number of directions that a single motion input can contain.
+4. Each motion input's complexity must be completely independent from all other motion inputs' complexity.
+5. To provide a degree of leniency instead of demanding frame-perfect inputs, the parser must have a buffer that allows for multiple frames to elapse between each directional input in a motion input.
+6. Motion inputs must be represented using numpad notation (a system for representing directional inputs as numbers), which is the de facto standard for representing directional inputs in 2D fighting games.  In a real-world implementation of this algorithm, the input reader would convert directional inputs to the equivalent in numpad notation, so this algorithm represents directional inputs as integers from 1 to 9.
 
 Image: A diagram depicting numpad notation
 ![numpad notation diagram](./media/numpad_explanation.png)
