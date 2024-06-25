@@ -1,5 +1,5 @@
 # Introduction
-This portfolio is a showcase of various projects that I've worked on during my undergraduate coursework, internships, and free time.  For each project within this portfolio, I've included a description of the project's functionality, along with screenshots and/or diagrams to demonstrate or further explain each proejct.
+This portfolio is a showcase of various projects that I've worked on during my undergraduate coursework, internships, and free time.  For each project within this portfolio, I've included a description of the project's functionality, along with screenshots and/or diagrams to demonstrate or further explain each project.
 
 ## Project 1: Motion Input Parser
 
